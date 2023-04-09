@@ -1,3 +1,3 @@
-# weather-app
+# Weather App
 
 url: https://freitasgilberto.github.io/weather-app/
