@@ -10,15 +10,15 @@ This is a simple weather app built with React and Axios that allows you to check
 
 ## Features
 
-- Search for the weather in any city
-- Displays current weather information, including temperature, humidity, and weather description
+- Search for the weather in any city.
+- Displays current weather information, including temperature, humidity, and weather description.
 
 ## How to Use
 
-1. Clone this repository
-2. Run `npm install` to install the necessary dependencies
-3. Get an API key from OpenWeather API and replace the `apiKey` variable in `src/App.js` with your own key
-4. Run `npm start` to start the app
+1. Clone this repository.
+2. Run `npm install` to install the necessary dependencies.
+3. Get an API key from OpenWeather API and replace the `apiKey` variable in `src/App.js` with your own key.
+4. Run `npm start` to start the app.
 
 ## Deployment
 
